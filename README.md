@@ -39,5 +39,4 @@ It helps demonstrate how language models can be trained to mimic writing styles 
 ---
 
 ## Images of the output
-images are uploaded in the images folder 
-
+(https://github.com/sahana39966/News-Headline-Generator-/blob/main/Screenshot%202025-09-29%20204506.png)
