@@ -10,11 +10,6 @@ This project was built to explore Natural Language Processing (NLP) techniques a
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
